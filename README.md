@@ -1,5 +1,5 @@
 # CLSInfo - Public Repo 
-Pour des liens accessibles peut importe ou nous sommes !  
+Pour montré nos projets au public. Aucune Release Ici, pour télécharger veuillez contacter CLS Info ou utilisé votre compte et allez dans notre repo ! merci !
 
 ---
 + #### pOSyDBF Release
@@ -12,5 +12,6 @@ Pour des liens accessibles peut importe ou nous sommes !
 ---
 
 + #### Delivery 2023 progress
+  ##### Module de remplacement pour Delivery POSiTouch, complètement intégré avec 6.x! 
   [Delivery2023](https://drive.google.com/file/d/1_p35Z2FUCodTKDoxNxzVSwEXe4GibWJN/view)
 ---
