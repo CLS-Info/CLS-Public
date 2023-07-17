@@ -12,5 +12,5 @@ Pour des liens accessibles peut importe ou nous sommes !
 ---
 
 + #### Delivery 2023 progress
-  ![Delivery2023](https://drive.google.com/file/d/1_p35Z2FUCodTKDoxNxzVSwEXe4GibWJN/view)
+  [Delivery2023](https://drive.google.com/file/d/1_p35Z2FUCodTKDoxNxzVSwEXe4GibWJN/view)
 ---
