@@ -15,3 +15,4 @@ Pour montré nos projets au public. Aucune Release Ici, pour télécharger veuil
   ##### Module de remplacement pour Delivery POSiTouch, complètement intégré avec 6.x! 
   [Delivery2023](https://drive.google.com/file/d/1_p35Z2FUCodTKDoxNxzVSwEXe4GibWJN/view)
 ---
+##### CLSInfoTeam can update this file
