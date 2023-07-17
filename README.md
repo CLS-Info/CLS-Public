@@ -3,6 +3,8 @@ Pour des liens accessibles peut importe ou nous sommes !
 
 ---
 + #### pOSyDBF Release
+### Interface entre POSiTouch et Quickbooks Online 
+#### Importé votre data positouch dans votre quickbooks !  
   ![pOSyDBF-Screenshot](https://github.com/CLS-Info/CLS-Public/assets/22131318/0fc87e3f-0652-4cef-ac45-4db7c0cd4216)
 ---
 + #### TimeSync Release
