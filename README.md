@@ -3,6 +3,8 @@ Pour montré nos projets au public. Aucune Release Ici, pour télécharger veuil
 
 ---
 + #### POSiNumpad Release
+> Utilisez le 'NumPad' de votre clavier pour entrer un numéro de téléphone dans le module de livraison POSiTouch PLUS RAPIDEMENT !
+>> Use the NumPad of your keyboard to enter a phone number inside the POSiTouch Delivery Module FASTER ! 
   ![POSiNumpad](https://github.com/CLS-Info/CLS-Public/assets/22131318/2448b827-b8be-4467-b1d8-94d33335b413)
 ---
 + #### pOSyDBF Release
