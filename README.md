@@ -16,6 +16,12 @@ Pour montré nos projets au public. Aucune Release Ici, pour télécharger veuil
 + #### TimeSync Release
   ![timesync2](https://github.com/CLS-Info/CLS-Public/assets/22131318/f3c3f5fd-c389-439c-9758-9a7ba2e6cd3c)
 ---
++ #### mdCleaner
+  ![demo_mdCleaner](https://github.com/CLS-Info/CLS-Public/assets/22131318/1224170c-6bb9-4428-9790-aa0a5cefbd7e)
+---
+
+
+
 
 + #### Delivery 2023 progress
   ##### Module de remplacement pour Delivery POSiTouch, complètement intégré avec 6.x! 
